@@ -120,6 +120,11 @@ Food & Drink · Transport (Bus / Taxi / Ride) · Shopping · Bills & Utilities �
 
 ---
 
+## Run online
+- [DUKA_FINANCE](https://fintrack-duka.vercel.app/)
+
+---
+
 ## Running Locally
 
 ```bash
@@ -175,5 +180,6 @@ Duka is designed with privacy in mind:
 - See [History_Page](./history.jpg)
 - See [Setting_Page](./setting.jpg)
 
+---
 
 *Duka (ዱካ) — Your financial footprint, simplified.*
