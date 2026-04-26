@@ -167,4 +167,13 @@ Duka is designed with privacy in mind:
 
 ---
 
+## Preview
+
+- See [Privacy_Policy_Page](./privacy.jpg)
+- See [Dashboard_Page](./dashbord.jpg)
+- See [Transaction_Page](./add_transaction.jpg)
+- See [History_Page](./history.jpg)
+- See [Setting_Page](./setting.jpg)
+
+
 *Duka (ዱካ) — Your financial footprint, simplified.*
